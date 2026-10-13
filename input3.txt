@@ -1,0 +1,41 @@
+Dr. Abu Rayhan Md. Ali        | Professor
+Dr. Md. Ehsan                 | Professor
+Dr. Md. Zahurul Haq           | Professor
+Dr. Mohammad Ali              | Professor
+Dr. Shaikh Reaz Ahmed         | Professor
+Dr. M. Ashiqur Rahman         | Professor
+Dr. Md. Afsar Ali             | Professor
+Dr. Mohammad Arif Hasan Mamun | Professor
+Dr. Md. Abdus Salam Akanda    | Professor
+Dr. Mohammad Mamun            | Professor
+Dr. Aloke Kumar Mozumder      | Professor
+Dr. A. B. M. Toufique Hasan   | Professor
+Dr. Mohammad Nasim Hasan      | Professor
+Dr. A K M Monjur Morshed      | Professor
+Dr. Mohammad A. Motalab       | Professor
+Dr. Md. Ashiqur Rahman        | Professor
+Dr. Sumon Saha                | Professor
+Dr. Kazi Arafat Rahman        | Associate Professor
+Dr. Sheikh Mohammad Shavik    | Associate Professor
+Dr. Shahereen Chowdhury       | Associate Professor
+Dr. Mohammad Jane Alam Khan   | Associate Professor
+Dr. Md Aman Uddin             | Associate Professor
+Ms. Sanchita Amin             | Assistant Professor
+Dr. Anup Saha                 | Assistant Professor
+Dr. Md. Rakibul Hasan Roni    | Assistant Professor
+Dr. Md. Omar Sany Bappy       | Assistant Professor
+Dr. Abdul Aziz Shuvo          | Assistant Professor
+Md. Imrul Kayes               | Assistant Professor
+Saifuddin Zafar               | Lecturer
+Muhammad Abdullah             | Lecturer
+Md. Moyeenul Hossain Ratul    | Lecturer
+Md. Sajib Ali                 | Lecturer
+Sayma Sultana                 | Lecturer
+Kazi Tawseef Rahman           | Lecturer
+Mustofa Sakif Shahriar        | Lecturer
+Rafiul Haq                    | Lecturer
+Md. Mosaib Hasan Shifat       | Lecturer
+Abrar Jahin                   | Lecturer
+Abdul Al Mahfuj               | Lecturer
+Dilshad Jahan Ritu            | Lecturer
+Sakil Hossen                  | Part Time

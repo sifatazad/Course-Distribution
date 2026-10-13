@@ -1,0 +1,5 @@
+Professor           | 6.00
+Associate Professor | 6.00
+Assistant Professor | 6.00
+Lecturer            | 6.00
+Part Time           | 6.00

@@ -1,0 +1,40 @@
+SHOP 160 | Foundry and Welding Shops                     | 0.75
+SHOP 170 | Machine Shop Practice                         | 0.75
+ME 204   | Engineering Thermodynamics Sessional          | 0.75
+ME 262   | Numerical Analysis Sessional                  | 0.75
+ME 244   | Mechanics of Solids Sessional                 | 0.75
+ME 306   | Heat Transfer Sessional                       | 0.75
+ME 326   | Fluid Mechanics Sessional                     | 0.75
+ME 422   | Fluid Machinery Sessional                     | 0.75
+ME 418   | Heat Engines Sessional                        | 0.75
+ME 420   | Power Plant Engineering Sessional             | 0.75
+ME 160   | Mechanical Engineering Drawing -I             | 1.50
+ME 172   | Computer Programming Language Sessional       | 1.50
+ME 260   | Mechanical Engineering Drawing -II            | 1.50
+ME 350   | Mechanics of Machinery Sessional              | 1.50
+ME 366   | Electro-Mechanical System Design and Practice | 1.50
+ME 352   | Machine Design Sessional                      | 1.50
+ME 310   | Thermo Fluid System Design                    | 1.50
+ME 101   | Introduction to Mechanical Engineering        | 3.00
+ME 171   | Computer Programming Language                 | 3.00
+ME 247   | Engineering Mechanics-I                       | 3.00
+ME 203   | Engineering Thermodynamics                    | 3.00
+ME 261   | Numerical Analysis                            | 3.00
+ME 243   | Mechanics of Solids                           | 3.00
+ME 249   | Engineering Mechanics-II                      | 3.00
+ME 321   | Fluid Mechanics - I                           | 3.00
+ME 349   | Mechanics of Machinery                        | 3.00
+ME 305   | Heat Transfer                                 | 3.00
+ME 361   | Instrumentation and Measurement               | 3.00
+ME 323   | Fluid Mechanics - II                          | 3.00
+ME 307   | Heat Transfer Equipment Design                | 3.00
+ME 421   | Fluid Machinery                               | 3.00
+ME 417   | Internal Combustion Engines                   | 3.00
+ME 400   | Project and Thesis                            | 3.00
+ME 419   | Power Plant Engineering                       | 3.00
+ME 407   | Advanced Thermodynamics                       | 3.00
+ME 413   | Energy and Environment                        | 3.00
+ME 461   | Control Engineering                           | 3.00
+ME 469   | Nuclear Engineering                           | 3.00
+ME 475   | Mechatronics                                  | 3.00
+ME 351   | Machine Design                                | 4.00
